@@ -16,6 +16,13 @@ namespace WebApplication.Controllers
             return new string[] { "value1", "value2" };
         }
 
+        // GET: api/<ValuesController>
+        [HttpGet]
+        public IEnumerable<string> Get_test()
+        {
+            return new string[] { "value1", "value2" };
+        }
+
         // GET api/<ValuesController>/5
         [HttpGet("{id}")]
         public string Get(int id)
