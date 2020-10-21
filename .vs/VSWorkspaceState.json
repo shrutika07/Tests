@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\WebApplication",
+    "\\WebApplication\\WebApplication",
+    "\\WebApplication\\WebApplication\\Controllers"
   ],
+  "SelectedNode": "\\WebApplication\\WebApplication\\Controllers",
   "PreviewInSolutionExplorer": false
 }
